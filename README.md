@@ -1,5 +1,19 @@
-# BEECOLLECTION
-BEECOLLECTION est une Application Mobile destinée a faciliter la promotion , la vente et l'achat de produits dérivés du miel tels que le miel pur, les savons au miel, les bougies, les soins naturels... en connectant directement producteur locaux et consommateurs...
+# Membres du groupe
+- Wadendly AUGUSTE
+- Hendy PREVILON
+- Olivier FRANCOIS
+
+# Idees d'Application
+- Concue pour les producteurs/ Apiculteurs
+- Pour la vente de produits a base de miel
+- Pour les consommateurs
+- Pour l'Education et la sensibilisation
+
+# Idee d'Application finale
+a. Aliment naturel et énergétique
+b. Propriétés médicinales
+c. Usage cosmétique
+le miel est un trésor naturel aux bienfaits nutritionnels et thérapeutiques. Le mettre en valeur, c’est valoriser l’homme. Malheureusement, nous sommes en minorite, ceux qui sont concients de l'unitilite de ce produit naturel. Pour remidier a cette situation nous  avons cree BEECOLLECTION,une Application qui va contribuer a la localisation des ruches, la sensibilisation sur la protection de la nature, la promotion, la vente... des produits a base de miel...  
 
 # User stories :
 # 1.⁠ ⁠En tant qu'utilisateur (consommateur, client), tu es capable de : 
@@ -18,3 +32,6 @@ BEECOLLECTION est une Application Mobile destinée a faciliter la promotion , la
 	gérer mes commandes reçues et suivre leur statut.
 	voir les avis clients sur mes produits.
 	recevoir des statistiques de ventes, pour suivre mon activité…
+
+# Conception 
+
